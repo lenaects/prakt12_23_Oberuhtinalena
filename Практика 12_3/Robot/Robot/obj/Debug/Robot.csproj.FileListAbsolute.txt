@@ -1,0 +1,11 @@
+J:\Основы алгоритмизации\Практика 12_3\Robot\Robot\bin\Debug\Robot.exe.config
+J:\Основы алгоритмизации\Практика 12_3\Robot\Robot\bin\Debug\Robot.exe
+J:\Основы алгоритмизации\Практика 12_3\Robot\Robot\bin\Debug\Robot.pdb
+J:\Основы алгоритмизации\Практика 12_3\Robot\Robot\obj\Debug\Robot.csproj.AssemblyReference.cache
+J:\Основы алгоритмизации\Практика 12_3\Robot\Robot\obj\Debug\Robot.csproj.SuggestedBindingRedirects.cache
+J:\Основы алгоритмизации\Практика 12_3\Robot\Robot\obj\Debug\Robot.Form1.resources
+J:\Основы алгоритмизации\Практика 12_3\Robot\Robot\obj\Debug\Robot.Properties.Resources.resources
+J:\Основы алгоритмизации\Практика 12_3\Robot\Robot\obj\Debug\Robot.csproj.GenerateResource.cache
+J:\Основы алгоритмизации\Практика 12_3\Robot\Robot\obj\Debug\Robot.csproj.CoreCompileInputs.cache
+J:\Основы алгоритмизации\Практика 12_3\Robot\Robot\obj\Debug\Robot.exe
+J:\Основы алгоритмизации\Практика 12_3\Robot\Robot\obj\Debug\Robot.pdb
